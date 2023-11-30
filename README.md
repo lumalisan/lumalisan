@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lumalisan" alt="lumalisan" /></a> </p>
 
-- 🔭 I’m currently working on **ITCP Company**
+- 🔭 I’m currently working on **my portfolio**
 
-- 🌱 I’m currently learning **Next 13**
+- 🌱 I’m currently learning **Astro**
 
-- 💬 Ask me about **React & .NET Core**
+- 💬 Ask me about **React & Next.js**
 
 - 📫 How to reach me **lumalisan@gmail.com**
 
