@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lisandro</h1>
-<h3 align="center">A passionate Fullstack Developer from Mallorca 🏝️</h3>
+<h3 align="center">A passionate Full-stack Developer from Mallorca 🏝️</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on my portfolio<br>🌱 I’m currently learning Astro<br>💬 Ask me about React & Next.js<br>📫 How to reach me: lumalisan@gmail.com
